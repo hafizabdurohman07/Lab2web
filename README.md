@@ -17,7 +17,7 @@ tambahkan deklarasi inline CSS dan hasil isi dari warna isi nya pudar
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1495481c-2b27-42e3-8a53-66f01927498a" />
 
-dan menambah tombol aa 3 nav bar yang berwarna hijau
+dan menambah tombol3 dan nav bar yang berwarna hijau
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89e7d804-e01c-4744-a408-9b52768563c0" />
 
