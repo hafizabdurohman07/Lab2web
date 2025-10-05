@@ -35,6 +35,6 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> ) <br>
 
 jawaban<br>
-2. h1= untuk menaruh tukisan di tangah #inro h1= untuk memindah ke pinggir<br>
+2. h1= untuk menaruh tulisan di tengah #inro h1= untuk memindah ke pinggir<br>
 3. tidak berubah namun isi kata katanya beubah warna dari putih ke hitam
 4. tidak berubah namun isi kata katanya beubah warna dari putih ke hitam
