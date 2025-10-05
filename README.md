@@ -32,7 +32,7 @@ elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!<br>
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
-Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> ) <br>
+Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> )<br>
 
 jawaban<br>
 2. h1= untuk menaruh tulisan di tengah #inro h1= untuk memindah ke pinggir<br>
