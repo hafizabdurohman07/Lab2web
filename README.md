@@ -13,7 +13,7 @@ jadi ini hasil nya heding nya pindah ke tengan dan menambahkan border-bottom pad
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/437807fd-48d2-4e61-a826-957dc745d819" />
 
-tambahkan deklarasi inline CSS dan hasil isi dari warna isi nya pudar
+tambahkan deklarasi inline CSS dan hasil dari warna isi nya pudar
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1495481c-2b27-42e3-8a53-66f01927498a" />
 
