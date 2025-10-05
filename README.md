@@ -9,11 +9,11 @@ ini hasil percobaan pertama dan hasilnya belum kelihatan<br>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e48d1b0-09be-44f7-9cd0-90d4e72d3516" />
 
-jadi ini hasil kedua nya heding nya pindah ke tengan dan menambahkan border-bottom pada heading dan juga memindahkan "hello word"
+jadi ini hasil kedua nya heding nya pindah ke tengan dan menambahkan border-bottom pada heading dan juga terpindah nya "hello word"
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/437807fd-48d2-4e61-a826-957dc745d819" />
 
-jadi ini hasil ke tiga nya tambahkan deklarasi inline CSS dan hasil dari warna isi tulisannya pudar
+jadi ini hasil ke tiga di tambah nya deklarasi inline CSS dan hasil dari warna isi tulisannya pudar
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1495481c-2b27-42e3-8a53-66f01927498a" />
 
